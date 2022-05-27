@@ -1,20 +1,6 @@
 # Fabio Cometti 
-### Hi there 👋
-### <a href="#head1234"></a>A Heading in this SO entry!
 
-# A
-# A
-# A
-# A
-# A
-# A
-# A
-# A
-# A
-# A
-# A
-# A
-[link text](#Fabio-Cometti)
+[go up](#Fabio-Cometti)
 
 
 
